@@ -9,7 +9,9 @@
  <img width="371" alt="スクリーンショット 2022-05-13 2 48 09" src="https://user-images.githubusercontent.com/20380565/168137296-5aa7317e-2567-4ed0-a06a-a49a18e219ce.png">
 
 - 自分のローカル端末でflask runをしないと稼働しないですが一応botは以下
-<img width="371" alt="スクリーンショット 2022-05-13 2 48 09" src="https://user-images.githubusercontent.com/20380565/168137296-5aa7317e-2567-4ed0-a06a-a49a18e219ce.png">
+
+<img width="771" alt="スクリーンショット 2022-05-13 2 49 53" src="https://user-images.githubusercontent.com/20380565/168137927-2c6f7af2-d399-4077-ba27-ee480263ddab.png">
+
 
 
 ## ②工夫した点・こだわった点
