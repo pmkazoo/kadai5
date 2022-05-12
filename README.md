@@ -8,9 +8,12 @@
 
 ## ②工夫した点・こだわった点
 -  LINEのMessaging APIを利用
+-  flaskを利用
+-  ngrokを利用
 
 ## ③質問・疑問（あれば）
 - 特になし
 
 ## ④その他（感想、シェアしたいことなんでも）
 - LINEbotを作り方がわかると今後の卒業制作にも使えるかなと思い、基本を学びました
+- 参考URL：https://www.youtube.com/watch?v=jBsvdgFMZtg&t=902s
